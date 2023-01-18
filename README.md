@@ -1,5 +1,6 @@
 # 👨‍💻Rateb Ballouk
 
+
 **`Self Taught Web/App Developer, [Currently Learning .Net]`**
 
 
@@ -20,3 +21,5 @@
 <img align="left" alt=".Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
