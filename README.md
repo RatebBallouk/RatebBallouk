@@ -1,7 +1,7 @@
 # 👨‍💻Rateb Ballouk
 
 
-**`Self Taught Web/App Developer, [Currently Learning .Net]`**
+**`Self Taught Web/App Developer, [Currently Learning Prolog]`**
 
 
 ### 🧰Languages & Tools
