@@ -1,7 +1,7 @@
 # 👨‍💻Rateb Ballouk
 
 
-**`Self Taught Web/App Developer, [Currently Learning Prolog]`**
+**`Self-Taught Developer, [Currently Learning Rust]`**
 
 
 ### 🧰Languages & Tools
