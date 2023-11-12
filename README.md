@@ -1,7 +1,7 @@
 # 👨‍💻Rateb Ballouk
 
 
-**`Self-Taught, [MatLab]`**
+**`Self-Taught, Learning [MatLab]`**
 
 
 ### 🧰Languages & Tools
