@@ -1,7 +1,7 @@
-# 👨‍💻Rateb Ballouk
+# 👨‍💻Rateb
 
 
-**`Self-Taught, Learning [MatLab]`**
+**`Analog Tech Enthusiast, Hardware Developer`**
 
 
 ### 🧰Languages & Tools
